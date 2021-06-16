@@ -64,7 +64,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.program.hiddensd-redux-matrix" name="[COLOR red]SalonDigital[/COLOR] Control SD Redux" version="2.1.4" provider-name="tocinillo">
+<addon id="plugin.program.hiddensd-redux-matrix" name="[COLOR red]SalonDigital[/COLOR] Control SD Redux" version="2.1.5" provider-name="tocinillo">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
