@@ -1,0 +1,20 @@
+{
+    "presets": [
+        {
+            "name": "Activar todo el artwork",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/presets/artwork_preset.xml",
+            "icon": "",
+            "fanart": "",
+            "description": "Activa todo los tipos de artwork en la skin, solo valido para Kodi 19 o superior"
+        },
+        {
+            "name": "Opciones de Cache y red",
+            "section": true,
+            "url": "https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/presets/cache_presets.json",
+            "icon": "",
+            "fanart": "",
+            "description": "Todas las opciones relacionadas con cache y red"
+        }
+    ]
+}
